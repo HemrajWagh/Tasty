@@ -1,0 +1,510 @@
+# Copyright (C) 2020 Kadence WP
+# This file is distributed under the same license as the Kadence Blocks - PRO Extension plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Kadence Blocks - PRO Extension 1.4.18\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/kadence-blocks-pro\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-12-21T20:54:01+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: kadence-blocks-pro\n"
+
+#. Plugin Name of the plugin
+msgid "Kadence Blocks - PRO Extension"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://www.kadencewp.com/product/kadence-gutenberg-blocks/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Extends Kadence Blocks with powerful extras that make it possible to create beautiful content in the WordPress Block Editor"
+msgstr ""
+
+#. Author of the plugin
+msgid "Kadence WP"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.kadencewp.com/"
+msgstr ""
+
+#: class-kadence-blocks-pro.php:229
+msgid "Install Kadence Blocks"
+msgstr ""
+
+#: class-kadence-blocks-pro.php:232
+msgid "Activate Kadence Blocks"
+msgstr ""
+
+#. translators: %s is a link to kadence block plugin.
+#: class-kadence-blocks-pro.php:249
+msgid "Kadence Blocks Pro requires %s to be active for all functions to work."
+msgstr ""
+
+#: class-kadence-blocks-pro.php:251
+msgid "Activating..."
+msgstr ""
+
+#: class-kadence-blocks-pro.php:251
+msgid "Activated"
+msgstr ""
+
+#: class-kadence-blocks-pro.php:251
+msgid "Installing..."
+msgstr ""
+
+#: class-kadence-blocks-pro.php:251
+msgid "Installed"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-backend.php:55
+msgid "Send in Blue V3 API Key"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-backend.php:66
+msgid "Mail Chimp API Key"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-backend.php:89
+msgid "Image Overlay"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-backend.php:90
+msgid "The Image Overlay block is a beautiful way to create an image link with an overlay title and subtitle. Using the powerful options you can set placement, animations, and hover effects."
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-backend.php:95
+msgid "Split Content"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-backend.php:96
+msgid "Easily create a two column row using an image or video in one column, drag to adjust the media column width and input any desirable blocks in the content column."
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-backend.php:101
+msgid "Post Grid/Carousel"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-backend.php:102
+msgid "Add a grid or carousel of posts and customize the styling to your desired look. Posts can be selected individually or by category or tag."
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-backend.php:107
+msgid "Modal"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-backend.php:108
+msgid "Easily create call to action buttons that open a modal box. Include any kind of content within your modal. Customize overlay, animation, size, placement etc."
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-backend.php:113
+msgid "Product Carousel"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-backend.php:114
+msgid "Add a Woocommerce Product Carousel to your page or post. You can select products by category, on sale, best selling or just individually select the products you want to show."
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-backend.php:119
+msgid "Video Popup"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-backend.php:120
+msgid "Beautifully display a thumbnail with overlay and hover effect that links to a video popup on click. Works with local or external videos!"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-backend.php:125
+msgid "Portfolio Grid/Carousel"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-backend.php:126
+msgid "Display a grid or carousel of portfolio styled posts. Use any post type and define colors, hover animations. You can also add a filter for sorting."
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:103
+msgctxt "Kadence Blocks"
+msgid "Custom Icons"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:131
+msgid "Choose or Upload File"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:132
+msgid "Use this File"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:144
+msgid "Icon Set"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:169
+msgid "Icon Set Name:"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:174
+msgid "Icon Set Prefix:"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:176
+#: dist/class-kadence-blocks-pro-custom-icons.php:178
+#: dist/class-kadence-blocks-pro-custom-icons.php:203
+msgid "Edit File"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:179
+#: dist/class-kadence-blocks-pro-custom-icons.php:204
+msgid "Save/Publish to see uploaded icons."
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:199
+msgid "Selection.json file"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:200
+msgid "Upload .json file from within the IcoMoon .zip file (Make sure each set has a unique prefix)"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:202
+msgid "Upload File"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:338
+#: dist/class-kadence-blocks-pro-custom-icons.php:350
+msgid "Custom Icons"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:339
+msgid "Custom Icon"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:340
+#: dist/class-kadence-blocks-pro-custom-icons.php:341
+msgid "Add New Custom Icon"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:342
+msgid "Edit Custom Icon"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:343
+msgid "New Custom Icon"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:344
+msgid "All Custom Icons"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:345
+msgid "View Custom Icon"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:346
+msgid "Search Custom Icons"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:347
+msgid "No Custom Icons found"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:348
+msgid "No Custom Icons found in Trash"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:397
+msgid "Custom Icon Set"
+msgstr ""
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:418
+msgid "Not Found"
+msgstr ""
+
+#: dist/dynamicblocks/form-mailchimp-rest-api.php:147
+msgid "The API Key for mailchimp account."
+msgstr ""
+
+#: dist/dynamicblocks/form-mailchimp-rest-api.php:152
+#: dist/dynamicblocks/form-sendinblue-rest-api.php:131
+msgid "Actionable endpoint for api call."
+msgstr ""
+
+#: dist/dynamicblocks/form-mailchimp-rest-api.php:157
+#: dist/dynamicblocks/form-sendinblue-rest-api.php:136
+msgid "Query Args for url."
+msgstr ""
+
+#: dist/dynamicblocks/form-sendinblue-rest-api.php:126
+msgid "The API Key for SendInBlue account."
+msgstr ""
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:126
+msgid "Post"
+msgstr ""
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:130
+msgid "Post Title"
+msgstr ""
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:134
+msgid "Post URL"
+msgstr ""
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:138
+msgid "Post Excerpt"
+msgstr ""
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:142
+msgid "Post ID"
+msgstr ""
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:146
+msgid "Post Date"
+msgstr ""
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:150
+msgid "Post Last Modified Date"
+msgstr ""
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:154
+msgid "Featured Image URL"
+msgstr ""
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:158
+msgid "Post Type"
+msgstr ""
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:162
+msgid "Post Status"
+msgstr ""
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:166
+msgid "Post Custom Field"
+msgstr ""
+
+#: dist/dynamicblocks/portfolio-grid-carousel.php:659
+#: dist/dynamicblocks/portfolio-grid-carousel.php:671
+#: dist/dynamicblocks/post-grid-carousel.php:934
+#: dist/dynamicblocks/post-grid-carousel.php:946
+#: dist/form/admin/kb-form-admin-entries-table-list.php:662
+msgid "All"
+msgstr ""
+
+#: dist/dynamicblocks/portfolio-grid-carousel.php:919
+msgid "View Project Preview"
+msgstr ""
+
+#: dist/dynamicblocks/portfolio-grid-carousel.php:920
+msgid "Zoom"
+msgstr ""
+
+#: dist/dynamicblocks/post-grid-carousel.php:321
+msgid "Posted on"
+msgstr ""
+
+#: dist/dynamicblocks/post-grid-carousel.php:329
+msgid "Updated on"
+msgstr ""
+
+#: dist/dynamicblocks/post-grid-carousel.php:337
+msgid "By"
+msgstr ""
+
+#: dist/dynamicblocks/post-grid-carousel.php:345
+msgid "Posted in"
+msgstr ""
+
+#: dist/dynamicblocks/post-grid-carousel.php:536
+msgid "Read More"
+msgstr ""
+
+#: dist/dynamicblocks/post-grid-carousel.php:1136
+msgid "No posts"
+msgstr ""
+
+#: dist/dynamicblocks/post-grid-carousel.php:2253
+msgid "Comment"
+msgstr ""
+
+#: dist/dynamicblocks/post-grid-carousel.php:2255
+msgid "Comments"
+msgstr ""
+
+#: dist/dynamicblocks/post-grid-carousel.php:2363
+msgid "Comment Count"
+msgstr ""
+
+#: dist/dynamicblocks/product-carousel.php:231
+msgid "WooCommerce Missing"
+msgstr ""
+
+#: dist/form/admin/kadence-admin-form-entries.php:52
+msgid "Kadence Blocks - Form Entries"
+msgstr ""
+
+#: dist/form/admin/kadence-admin-form-entries.php:52
+#: dist/form/admin/kadence-admin-form-entries.php:267
+msgid "Form Entries"
+msgstr ""
+
+#: dist/form/admin/kadence-admin-form-entries.php:87
+msgid "Kadence Blocks"
+msgstr ""
+
+#: dist/form/admin/kadence-admin-form-entries.php:90
+msgid "Page Builder Toolkit"
+msgstr ""
+
+#: dist/form/admin/kadence-admin-form-entries.php:113
+msgid "Form Entry"
+msgstr ""
+
+#: dist/form/admin/kadence-admin-form-entries.php:114
+msgid "Back to All Entries"
+msgstr ""
+
+#: dist/form/admin/kadence-admin-form-entries.php:123
+msgid "%1$s : Entry #%2$s"
+msgstr ""
+
+#: dist/form/admin/kadence-admin-form-entries.php:136
+#: dist/form/admin/kadence-admin-form-entries.php:142
+#: dist/form/admin/kadence-admin-form-entries.php:147
+msgid "No Data"
+msgstr ""
+
+#: dist/form/admin/kadence-admin-form-entries.php:157
+msgid "Entry Details"
+msgstr ""
+
+#: dist/form/admin/kadence-admin-form-entries.php:163
+msgid "Entry ID:"
+msgstr ""
+
+#: dist/form/admin/kadence-admin-form-entries.php:168
+msgid "Form ID:"
+msgstr ""
+
+#: dist/form/admin/kadence-admin-form-entries.php:173
+msgid "Form Name:"
+msgstr ""
+
+#: dist/form/admin/kadence-admin-form-entries.php:178
+msgid "Submitted:"
+msgstr ""
+
+#: dist/form/admin/kadence-admin-form-entries.php:186
+msgid "User:"
+msgstr ""
+
+#: dist/form/admin/kadence-admin-form-entries.php:204
+msgid "Page:"
+msgstr ""
+
+#: dist/form/admin/kadence-admin-form-entries.php:211
+msgid "User IP:"
+msgstr ""
+
+#: dist/form/admin/kadence-admin-form-entries.php:218
+msgid "User Device:"
+msgstr ""
+
+#: dist/form/admin/kadence-admin-form-entries.php:241
+msgid "Move to trash"
+msgstr ""
+
+#: dist/form/admin/kadence-admin-form-entries.php:276
+msgid "Search entries"
+msgstr ""
+
+#: dist/form/admin/kb-form-admin-entries-table-list.php:59
+#: dist/form/admin/kb-form-admin-entries-table-list.php:175
+msgid "Published"
+msgstr ""
+
+#: dist/form/admin/kb-form-admin-entries-table-list.php:60
+#: dist/form/admin/kb-form-admin-entries-table-list.php:176
+#: dist/form/admin/kb-form-admin-entries-table-list.php:255
+msgid "Trash"
+msgstr ""
+
+#: dist/form/admin/kb-form-admin-entries-table-list.php:239
+msgid "View"
+msgstr ""
+
+#: dist/form/admin/kb-form-admin-entries-table-list.php:275
+msgid "Restore"
+msgstr ""
+
+#: dist/form/admin/kb-form-admin-entries-table-list.php:292
+msgid "Delete Permanently"
+msgstr ""
+
+#. translators: %d: number of entries
+#: dist/form/admin/kb-form-admin-entries-table-list.php:579
+msgid "%d entry restored."
+msgid_plural "%d entries restored."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %d: number of entries
+#: dist/form/admin/kb-form-admin-entries-table-list.php:589
+msgid "%d entry permanently deleted."
+msgid_plural "%d entries permanently deleted."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %d: number of entries
+#: dist/form/admin/kb-form-admin-entries-table-list.php:599
+msgid "%d entry trashed."
+msgid_plural "%d entries trashed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: dist/form/admin/kb-form-admin-entries-table-list.php:607
+msgid "Trash permanently deleted"
+msgstr ""
+
+#: dist/form/admin/kb-form-admin-entries-table-list.php:636
+msgid "Filter"
+msgstr ""
+
+#: dist/form/admin/kb-form-admin-entries-table-list.php:645
+msgid "Empty Trash"
+msgstr ""
+
+#: dist/form/admin/kb-form-admin-entries-table-list.php:660
+msgid "Filter by form"
+msgstr ""
+
+#: dist/form/kbp-form-actions.php:52
+#: dist/form/kbp-form-actions.php:62
+msgid "Thanks for contacting us!"
+msgstr ""
+
+#: dist/form/kbp-form-actions.php:53
+#: dist/form/kbp-form-actions.php:63
+msgid "Thanks for getting in touch, we will respond within the next 24 hours."
+msgstr ""
+
+#: dist/form/kbp-form-actions.php:122
+msgid "submission"
+msgstr ""
+
+#: dist/form/kbp-form-actions.php:131
+msgid "Not Collected"
+msgstr ""
+
+#: dist/form/kbp-form-actions.php:216
+msgid "No Response from SendInBlue"
+msgstr ""
+
+#. translators: %s - link to a site.
+#: dist/templates/form-auto-email.php:136
+msgid "Sent from %s"
+msgstr ""

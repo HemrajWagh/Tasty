@@ -1,0 +1,177 @@
+body {
+font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px;
+background:#f1f1f1;
+padding:0;
+margin:8px 8px 0 8px;
+}
+
+html {background:#f1f1f1;}
+td {font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px;}
+textarea {resize:none;outline:none;}
+a:link, a:visited {color:black;}
+a:hover {color:#2B6FB6;}
+.nowrap {white-space: nowrap}
+table {width:100%; border-collapse:collapse;}
+table td { padding:4px 0;}
+/* Forms */
+fieldset {margin:0; padding:10px; border:1px solid #dfdfdf; font-family:Verdana, Arial; font-size:12px;}
+legend {color:#2B6FB6; font-weight:bold;}
+input {background:#FFF; border:1px solid #dfdfdf; padding:3px 6px;}
+select {padding:3px 6px;}
+input, select, textarea {font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px;}
+input, select, textarea {border:1px solid #dfdfdf; width:100%;}
+
+/* Buttons */
+#insert, #cancel, #apply, .mceActionPanel .button, input.mceButton, .updateButton {
+	border: 1px solid #bbb; 
+	margin:0; 
+	padding:0 0 1px;
+	font-weight:bold;
+	font-size: 11px;
+	width:94px; 
+	height:24px;
+	background-image:url(img/fade-butt.png);
+	color:#000;
+	cursor:pointer;
+	-moz-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	text-shadow: none !important;
+}
+#insert:hover, #cancel:hover, input.mceButton:hover, .updateButton:hover,
+#insert:focus, #cancel:focus, input.mceButton:focus, .updateButton:focus {
+	border: 1px solid #555;
+}
+.mceActionPanel {margin-top:5px;}
+
+/* Tabs classes */
+div.tabs {width:100%; height:18px; line-height:normal; background:url(img/tabs.gif) repeat-x 0 -72px;}
+div.tabs ul {margin:0; padding:0; list-style:none;}
+div.tabs li {float:left; background:url(img/tabs.gif) no-repeat 0 0; margin:0 2px 0 0; padding:0 0 0 10px; line-height:17px; height:18px; display:block;}
+div.tabs li.current {background:url(img/tabs.gif) no-repeat 0 -18px; margin-right:2px;}
+div.tabs span {float:left; display:block; background:url(img/tabs.gif) no-repeat right -36px; padding:0px 10px 0 0;}
+div.tabs .current span {background:url(img/tabs.gif) no-repeat right -54px;}
+div.tabs a {text-decoration:none; font-family:Verdana, Arial; font-size:10px;}
+div.tabs a:link, div.tabs a:visited, div.tabs a:hover {color:black;}
+
+/* Panels */
+.panel_wrapper div.panel {display:none;}
+.panel_wrapper div.current {display:block; width:100%; height:300px; overflow:visible;}
+.panel_wrapper {border:1px solid #919B9C; border-top:0px; padding:10px; padding-top:5px; clear:both; background:white;}
+
+ul#tabs{
+	display: block;
+	background:#F1F1F1 none repeat scroll 0%;
+	font-size:14px;
+	overflow:hidden;
+	width: auto;
+	height:auto;
+    padding: 0 0 0 5px;
+	/* border-bottom: 1px solid #000000; */
+	margin-bottom: 0;
+
+	-moz-border-radius-topright: 6px;
+	-khtml-border-top-right-radius: 6px;
+	-webkit-border-top-right-radius: 6px;
+	border-top-right-radius: 6px;
+	-moz-border-radius-topleft: 6px;
+	-khtml-border-top-left-radius: 6px;
+	-webkit-border-top-left-radius: 6px;
+	border-top-left-radius: 6px;
+}
+
+ul.tabs {
+    list-style: none;
+}
+ul.tabs:after { /* clearing without presentational markup, IE gets extra treatment */
+    display: block;
+    clear: both;
+    content: " ";
+}
+ul.tabs li {
+    float: left;
+    padding: 3px 6px 5px;
+    margin: 2px 2px -1px 1px !important;
+	text-decoration: none;
+	list-style: none;
+}
+ul.tabs a, ul.tabs a span {
+    display: block;
+    padding: 0 1px;
+}
+
+ul.tabs a {
+    margin: 1px 0 0; /* position: relative makes opacity fail for disabled tab in IE */
+    padding-left: 0;
+    color: #2583AD;
+    text-align: center;
+    text-decoration: none;
+    white-space: nowrap; /* required in IE 6 */    
+    outline: 0; /* prevent dotted border in Firefox */
+	font-size: 12px;
+}
+ul.tabs .selected{
+	background: #6D6D6D url(../images/menu-bits.gif) repeat-x scroll left top;
+	border-color: #6D6D6D;
+	color: #FFFFFF;
+	text-shadow:0 -1px 0 #666666;
+
+	-moz-border-radius-topright: 6px;
+	-khtml-border-top-right-radius: 6px;
+	-webkit-border-top-right-radius: 6px;
+	border-top-right-radius: 6px;
+	-moz-border-radius-topleft: 6px;
+	-khtml-border-top-left-radius: 6px;
+	-webkit-border-top-left-radius: 6px;
+	border-top-left-radius: 6px;
+}
+
+ul.tabs .selected a,
+ul.tabs .selected a:hover {
+	color:#FFFFFF !important;
+    position: relative;
+    top: 1px;
+    z-index: 2;
+    margin-top: 0;
+}
+
+ul.tabs li a:hover {
+	color:#D54E21;
+}
+
+ul.tabs .selected a, ul.tabs a:hover, ul.tabs a:focus, ul.tabs a:active {
+    background-position: 100% -150px;
+}
+ul.tabs a {
+    background-position: 100% -100px;
+}
+ul.tabs .selected a:link, ul.tabs .selected a:visited { /* @ Opera, use pseudo classes otherwise it confuses cursor... */
+    cursor: text;
+}
+ul.tabs a:hover, ul.tabs a:focus, ul.tabs a:active { /* @ Opera, we need to be explicit again here now... */
+    cursor: pointer;
+}
+
+/* Presets */
+#skinpreset option {
+	display: none;
+}
+#skinpreset option.default-preset {
+	display: initial !important;
+}
+
+/* Additional IE specific bug fixes... */
+* html ul.tabs { /* auto clear, @ IE 6 & IE 7 Quirks Mode */
+    display: inline-block;
+}
+*:first-child+html ul.tabs  { /* @ IE 7 Standards Mode - do not group selectors, otherwise IE 6 will ignore complete rule (because of the unknown + combinator)... */
+    display: inline-block;
+}
+
+.cptabs_wrapper .cptab { border:1px solid #919B9C; padding: 15px; background: #fefefe; }
+
+li.albumchoosed { display:none !important; }
+.selectize-control.multi input {width:100% !important;}
+.selectize-control.multi input {width:100% !important;}
+.selectize-control.multi .has-items input {width:4px !important;}

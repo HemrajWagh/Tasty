@@ -1,0 +1,50 @@
+form.flagallery-preview {
+	position: relative;
+	padding-left: 270px;
+	padding-bottom: 30px;
+	overflow: hidden;
+	box-sizing: border-box;
+	height: auto;
+	width: 100%;
+}
+
+form.flagallery-preview input,
+form.flagallery-preview select {
+	display: block;
+	width: 100%;
+	margin: 5px 0 10px;
+	box-sizing: border-box;
+}
+
+form.flagallery-preview select.flagallery-preset option {
+	display: none;
+}
+form.flagallery-preview select.flagallery-preset option.default-preset {
+	display: initial !important;
+}
+
+.flagallery-required {
+	border-color: red !important;
+}
+
+img.flagallery-skin-screenshot {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 260px;
+	height: auto;
+}
+
+.flagallery-shortcode {
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	font-size: 12px;
+	font-family: Courier, sans-serif;
+	padding: 4px 10px;
+	background-color: #fafafa;
+	width: 100%;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}

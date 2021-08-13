@@ -1,0 +1,1540 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kadence Blocks Pro\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/kadence-blocks-"
+"pro\n"
+"POT-Creation-Date: 2020-12-14T23:53:20+00:00\n"
+"PO-Revision-Date: 2020-12-21 13:45-0700\n"
+"Last-Translator: \n"
+"Language-Team: Angelo Giammarresi - info@wocmultimedia.biz\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;esc_attr_e;esc_attr__;esc_html__;"
+"esc_html_e;esc_attr_x;_x;esc_html_x\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#. Plugin Name of the plugin
+msgid "Kadence Blocks - PRO Extension"
+msgstr "Kadence Blocks - PRO Estensioni"
+
+#. Plugin URI of the plugin
+msgid "https://www.kadencewp.com/product/kadence-gutenberg-blocks/"
+msgstr "https://www.kadencewp.com/product/kadence-gutenberg-blocks/"
+
+#. Description of the plugin
+msgid ""
+"Extends Kadence Blocks with powerful extras that make it possible to create "
+"beautiful content in the WordPress Block Editor"
+msgstr ""
+"Estendi Kadence Blocks con i potenti extra che ti consentono di creare "
+"fantastici contenuti nell'editor a blocchi di WordPress"
+
+#. Author of the plugin
+msgid "Kadence WP"
+msgstr "Kadence WP"
+
+#. Author URI of the plugin
+msgid "https://www.kadencewp.com/"
+msgstr "https://www.kadencewp.com/"
+
+#: class-kadence-blocks-pro.php:229
+msgid "Install Kadence Blocks"
+msgstr "Installa Kadence Blocks"
+
+#: class-kadence-blocks-pro.php:232
+msgid "Activate Kadence Blocks"
+msgstr "Attivare Blocchi Kadence"
+
+#. translators: %s is a link to kadence block plugin.
+#: class-kadence-blocks-pro.php:249
+msgid "Kadence Blocks Pro requires %s to be active for all functions to work."
+msgstr ""
+"Kadence Bocks Pro richiede %s sia attivo affinché funzionino tutte le "
+"opzioni."
+
+#: class-kadence-blocks-pro.php:251
+msgid "Activating..."
+msgstr "Attivando…"
+
+#: class-kadence-blocks-pro.php:251
+msgid "Activated"
+msgstr "Attivato"
+
+#: class-kadence-blocks-pro.php:251
+msgid "Installing..."
+msgstr "Installando…"
+
+#: class-kadence-blocks-pro.php:251
+msgid "Installed"
+msgstr "Installato"
+
+#: dist/class-kadence-blocks-pro-backend.php:55
+msgid "Send in Blue V3 API Key"
+msgstr "Invia chiave API V3 Blue"
+
+#: dist/class-kadence-blocks-pro-backend.php:66
+msgid "Mail Chimp API Key"
+msgstr "Chiave API Mail Chimp"
+
+#: dist/class-kadence-blocks-pro-backend.php:89
+#: src/blocks/image-overlay/block.js:46
+msgid "Image Overlay"
+msgstr "Sovrapponi immagine"
+
+#: dist/class-kadence-blocks-pro-backend.php:90
+msgid ""
+"The Image Overlay block is a beautiful way to create an image link with an "
+"overlay title and subtitle. Using the powerful options you can set "
+"placement, animations, and hover effects."
+msgstr ""
+"Il blocco dell'immagine sovrapposta è un bel modo per creare link con "
+"immagine con sovrapposto un titolo e sottotitolo. Utilizzando le potenti "
+"opzioni puoi impostare posizione, animazione ed effetti al passaggio del "
+"mouse."
+
+#: dist/class-kadence-blocks-pro-backend.php:95
+msgid "Split Content"
+msgstr "Contenuto diviso"
+
+#: dist/class-kadence-blocks-pro-backend.php:96
+msgid ""
+"Easily create a two column row using an image or video in one column, drag "
+"to adjust the media column width and input any desirable blocks in the "
+"content column."
+msgstr ""
+"Crea facilmente righe a due colonne usando un'immagine o un video in una "
+"colonna, trascina o regola la larghezza della colonna dei media e inserisci "
+"qualsiasi blocco desideri nella colonna del contenuto."
+
+#: dist/class-kadence-blocks-pro-backend.php:101
+#: src/blocks/post-grid/block.js:36 src/blocks/post-grid/block.js:42
+msgid "Post Grid/Carousel"
+msgstr "Griglia/carosello articoli"
+
+#: dist/class-kadence-blocks-pro-backend.php:102
+msgid ""
+"Add a grid or carousel of posts and customize the styling to your desired "
+"look. Posts can be selected individually or by category or tag."
+msgstr ""
+"Aggiungi una griglia o carosello di post e personalizza lo stile per come "
+"desideri che appaia. I post/articoli possono essere selezionati "
+"individualmente o per categoria o per tag."
+
+#: dist/class-kadence-blocks-pro-backend.php:107
+msgid "Modal"
+msgstr "Modale"
+
+#: dist/class-kadence-blocks-pro-backend.php:108
+msgid ""
+"Easily create call to action buttons that open a modal box. Include any kind "
+"of content within your modal. Customize overlay, animation, size, placement "
+"etc."
+msgstr ""
+"Crea facilmente pulsanti di invito all'azione che aprono una casella modale. "
+"Includi qualsiasi tipo di contenuto nel tuo modale. Personalizza "
+"sovrimpressione, animazione, dimensioni, posizionamento ecc."
+
+#: dist/class-kadence-blocks-pro-backend.php:113
+msgid "Product Carousel"
+msgstr "Carosello prodotti"
+
+#: dist/class-kadence-blocks-pro-backend.php:114
+msgid ""
+"Add a Woocommerce Product Carousel to your page or post. You can select "
+"products by category, on sale, best selling or just individually select the "
+"products you want to show."
+msgstr ""
+"Aggiungi un carosello di prodotti Woocommerce alla tua pagina o al tuo post. "
+"Puoi selezionare i prodotti per categoria, in vendita, i più venduti o "
+"semplicemente selezionare singolarmente i prodotti che desideri mostrare."
+
+#: dist/class-kadence-blocks-pro-backend.php:119
+msgid "Video Popup"
+msgstr "Popup Video"
+
+#: dist/class-kadence-blocks-pro-backend.php:120
+msgid ""
+"Beautifully display a thumbnail with overlay and hover effect that links to "
+"a video popup on click. Works with local or external videos!"
+msgstr ""
+"Visualizza magnificamente una miniatura con effetto sovrimpressione e al "
+"passaggio del mouse che si collega a un video popup con un clic. Funziona "
+"con video locali o esterni!"
+
+#: dist/class-kadence-blocks-pro-backend.php:125
+#: src/blocks/portfolio-grid/block.js:36 src/blocks/portfolio-grid/block.js:42
+msgid "Portfolio Grid/Carousel"
+msgstr "Griglia/carosello portfolio"
+
+#: dist/class-kadence-blocks-pro-backend.php:126
+msgid ""
+"Display a grid or carousel of portfolio styled posts. Use any post type and "
+"define colors, hover animations. You can also add a filter for sorting."
+msgstr ""
+"Visualizza una griglia o un carosello di articoli in stile portfolio. Usa "
+"qualsiasi tipo di articoli e definisci i colori, animazioni al passaggio del "
+"mouse. Puoi anche aggiungere un filtro per l'ordinamento."
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:103
+msgctxt "Kadence Blocks"
+msgid "Custom Icons"
+msgstr "Icone personalizzate"
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:131
+msgid "Choose or Upload File"
+msgstr "Seleziona o carica un file"
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:132
+msgid "Use this File"
+msgstr "Usa questo file"
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:144
+msgid "Icon Set"
+msgstr "Set di icone"
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:169
+msgid "Icon Set Name:"
+msgstr "Nome set di icone:"
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:174
+msgid "Icon Set Prefix:"
+msgstr "Prefisso set di icone:"
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:176
+#: dist/class-kadence-blocks-pro-custom-icons.php:178
+#: dist/class-kadence-blocks-pro-custom-icons.php:203
+msgid "Edit File"
+msgstr "Modifica file"
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:179
+#: dist/class-kadence-blocks-pro-custom-icons.php:204
+msgid "Save/Publish to see uploaded icons."
+msgstr "Salva/Pubblica per vedere le icone caricate."
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:199
+msgid "Selection.json file"
+msgstr "Seleziona un file .json"
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:200
+msgid ""
+"Upload .json file from within the IcoMoon .zip file (Make sure each set has "
+"a unique prefix)"
+msgstr ""
+"Carica il file .json dal file .zip di IcoMoon (assicurati che ogni set abbia "
+"un prefisso univoco)"
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:202
+msgid "Upload File"
+msgstr "Carica file"
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:338
+#: dist/class-kadence-blocks-pro-custom-icons.php:350
+msgid "Custom Icons"
+msgstr "Icone personalizzate"
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:339
+msgid "Custom Icon"
+msgstr "Icona personalizzata"
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:340
+#: dist/class-kadence-blocks-pro-custom-icons.php:341
+msgid "Add New Custom Icon"
+msgstr "Aggiungi nuova icona personalizzata"
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:342
+msgid "Edit Custom Icon"
+msgstr "Modifica icona personalizzata"
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:343
+msgid "New Custom Icon"
+msgstr "Nuova icona personalizzata"
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:344
+msgid "All Custom Icons"
+msgstr "Tutte le icone personalizzate"
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:345
+msgid "View Custom Icon"
+msgstr "Vedi icona personalizzata"
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:346
+msgid "Search Custom Icons"
+msgstr "Cerca icone personalizzate"
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:347
+msgid "No Custom Icons found"
+msgstr "Non ci sono icone personalizzate"
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:348
+msgid "No Custom Icons found in Trash"
+msgstr "Non ci sono icone personalizzate nel cestino"
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:397
+msgid "Custom Icon Set"
+msgstr "Gruppo icone personalizzate"
+
+#: dist/class-kadence-blocks-pro-custom-icons.php:418
+msgid "Not Found"
+msgstr "Non trovato"
+
+#: dist/dynamicblocks/form-mailchimp-rest-api.php:147
+msgid "The API Key for mailchimp account."
+msgstr "La chiave API per l'account mailchimp."
+
+#: dist/dynamicblocks/form-mailchimp-rest-api.php:152
+#: dist/dynamicblocks/form-sendinblue-rest-api.php:131
+msgid "Actionable endpoint for api call."
+msgstr "Endpoint utilizzabile per la chiamata API."
+
+#: dist/dynamicblocks/form-mailchimp-rest-api.php:157
+#: dist/dynamicblocks/form-sendinblue-rest-api.php:136
+msgid "Query Args for url."
+msgstr "Query Args per url."
+
+#: dist/dynamicblocks/form-sendinblue-rest-api.php:126
+msgid "The API Key for SendInBlue account."
+msgstr "La chiave API per l'account SendInBlue."
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:126
+msgid "Post"
+msgstr "Articolo"
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:130
+msgid "Post Title"
+msgstr "Titolo dell'articolo"
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:134
+msgid "Post URL"
+msgstr "URL dell'articolo"
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:138
+msgid "Post Excerpt"
+msgstr "Riassunto dell'articolo"
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:142
+msgid "Post ID"
+msgstr "ID dell'articolo"
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:146
+msgid "Post Date"
+msgstr "Data dell'articolo"
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:150
+msgid "Post Last Modified Date"
+msgstr "Ultima data di modifica dell'articolo"
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:154
+msgid "Featured Image URL"
+msgstr "URL dell'immagine in evidenza"
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:158
+msgid "Post Type"
+msgstr "Tipo di articolo"
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:162
+msgid "Post Status"
+msgstr "Stato dell'articolo"
+
+#: dist/dynamicblocks/kadence-dynamic-content.php:166
+msgid "Post Custom Field"
+msgstr "Campo personalizzato dell'articolo"
+
+#: dist/dynamicblocks/portfolio-grid-carousel.php:659
+#: dist/dynamicblocks/portfolio-grid-carousel.php:671
+#: dist/dynamicblocks/post-grid-carousel.php:934
+#: dist/dynamicblocks/post-grid-carousel.php:946
+#: dist/form/admin/kb-form-admin-entries-table-list.php:662
+#: src/blocks/post-grid/edit.js:2710 src/blocks/post-grid/edit.js:2746
+msgid "All"
+msgstr "Tutto"
+
+#: dist/dynamicblocks/portfolio-grid-carousel.php:919
+msgid "View Project Preview"
+msgstr "Vedi anteprima progetto"
+
+#: dist/dynamicblocks/portfolio-grid-carousel.php:920
+msgid "Zoom"
+msgstr "Zoom"
+
+#: dist/dynamicblocks/post-grid-carousel.php:321
+msgid "Posted on"
+msgstr "Pubblicato il"
+
+#: dist/dynamicblocks/post-grid-carousel.php:329
+msgid "Updated on"
+msgstr "Aggiornato il"
+
+#: dist/dynamicblocks/post-grid-carousel.php:337
+msgid "By"
+msgstr "Da"
+
+#: dist/dynamicblocks/post-grid-carousel.php:345
+msgid "Posted in"
+msgstr "Pubblicato su"
+
+#: dist/dynamicblocks/post-grid-carousel.php:536
+#: src/blocks/post-grid/edit.js:1991
+msgid "Read More"
+msgstr "Leggi di più"
+
+#: dist/dynamicblocks/post-grid-carousel.php:1136
+msgid "No posts"
+msgstr "Nessun articolo"
+
+#: dist/dynamicblocks/post-grid-carousel.php:2253
+msgid "Comment"
+msgstr "Commento"
+
+#: dist/dynamicblocks/post-grid-carousel.php:2255
+msgid "Comments"
+msgstr "Commenti"
+
+#: dist/dynamicblocks/post-grid-carousel.php:2363
+msgid "Comment Count"
+msgstr "Conteggio Commenti"
+
+#: dist/dynamicblocks/product-carousel.php:231
+msgid "WooCommerce Missing"
+msgstr "Manca WooCommerce"
+
+#: dist/form/admin/kadence-admin-form-entries.php:52
+msgid "Kadence Blocks - Form Entries"
+msgstr "Kadence Blocks - Voci modulo"
+
+#: dist/form/admin/kadence-admin-form-entries.php:52
+#: dist/form/admin/kadence-admin-form-entries.php:267
+msgid "Form Entries"
+msgstr "Voci Modulo"
+
+#: dist/form/admin/kadence-admin-form-entries.php:87
+msgid "Kadence Blocks"
+msgstr "Installa Kadence Blocks"
+
+#: dist/form/admin/kadence-admin-form-entries.php:90
+msgid "Page Builder Toolkit"
+msgstr "Page Builder Toolkit"
+
+#: dist/form/admin/kadence-admin-form-entries.php:113
+msgid "Form Entry"
+msgstr "Voce Modulo"
+
+#: dist/form/admin/kadence-admin-form-entries.php:114
+msgid "Back to All Entries"
+msgstr "Torna a tutte le voci"
+
+#: dist/form/admin/kadence-admin-form-entries.php:123
+msgid "%1$s : Entry #%2$s"
+msgstr "%1$s : Entrata #%2$s"
+
+#: dist/form/admin/kadence-admin-form-entries.php:136
+#: dist/form/admin/kadence-admin-form-entries.php:142
+#: dist/form/admin/kadence-admin-form-entries.php:147
+msgid "No Data"
+msgstr "Nessun dato"
+
+#: dist/form/admin/kadence-admin-form-entries.php:157
+msgid "Entry Details"
+msgstr "Dettagli voce"
+
+#: dist/form/admin/kadence-admin-form-entries.php:163
+msgid "Entry ID:"
+msgstr "ID Voce:"
+
+#: dist/form/admin/kadence-admin-form-entries.php:168
+msgid "Form ID:"
+msgstr "ID Modulo:"
+
+#: dist/form/admin/kadence-admin-form-entries.php:173
+msgid "Form Name:"
+msgstr "Nome modulo:"
+
+#: dist/form/admin/kadence-admin-form-entries.php:178
+msgid "Submitted:"
+msgstr "Inviato:"
+
+#: dist/form/admin/kadence-admin-form-entries.php:186
+msgid "User:"
+msgstr "Utente:"
+
+#: dist/form/admin/kadence-admin-form-entries.php:204
+msgid "Page:"
+msgstr "Pagina:"
+
+#: dist/form/admin/kadence-admin-form-entries.php:211
+msgid "User IP:"
+msgstr "IP utente:"
+
+#: dist/form/admin/kadence-admin-form-entries.php:218
+msgid "User Device:"
+msgstr "Dispositivo utente:"
+
+#: dist/form/admin/kadence-admin-form-entries.php:241
+msgid "Move to trash"
+msgstr "Sposta nel cestino"
+
+#: dist/form/admin/kadence-admin-form-entries.php:276
+msgid "Search entries"
+msgstr "Cerca voci"
+
+#: dist/form/admin/kb-form-admin-entries-table-list.php:59
+#: dist/form/admin/kb-form-admin-entries-table-list.php:175
+msgid "Published"
+msgstr "Pubblicato"
+
+#: dist/form/admin/kb-form-admin-entries-table-list.php:60
+#: dist/form/admin/kb-form-admin-entries-table-list.php:176
+#: dist/form/admin/kb-form-admin-entries-table-list.php:255
+msgid "Trash"
+msgstr "Cestino"
+
+#: dist/form/admin/kb-form-admin-entries-table-list.php:239
+msgid "View"
+msgstr "Visualizza"
+
+#: dist/form/admin/kb-form-admin-entries-table-list.php:275
+msgid "Restore"
+msgstr "Ripristina"
+
+#: dist/form/admin/kb-form-admin-entries-table-list.php:292
+msgid "Delete Permanently"
+msgstr "Elimina definitivamente"
+
+#. translators: %d: number of entries
+#: dist/form/admin/kb-form-admin-entries-table-list.php:579
+msgid "%d entry restored."
+msgid_plural "%d entries restored."
+msgstr[0] "%d voce ripristinata."
+msgstr[1] "%d voci ripristinate."
+
+#. translators: %d: number of entries
+#: dist/form/admin/kb-form-admin-entries-table-list.php:589
+msgid "%d entry permanently deleted."
+msgid_plural "%d entries permanently deleted."
+msgstr[0] "%d voce cancellata definitivamente."
+msgstr[1] "%d voci cancellate definitivamente."
+
+#. translators: %d: number of entries
+#: dist/form/admin/kb-form-admin-entries-table-list.php:599
+msgid "%d entry trashed."
+msgid_plural "%d entries trashed."
+msgstr[0] "%d voce cestinata."
+msgstr[1] "%d voci cestinate."
+
+#: dist/form/admin/kb-form-admin-entries-table-list.php:607
+msgid "Trash permanently deleted"
+msgstr "Cestino svuotato completamente"
+
+#: dist/form/admin/kb-form-admin-entries-table-list.php:636
+msgid "Filter"
+msgstr "Filtro"
+
+#: dist/form/admin/kb-form-admin-entries-table-list.php:645
+msgid "Empty Trash"
+msgstr "Svuota cestino"
+
+#: dist/form/admin/kb-form-admin-entries-table-list.php:660
+msgid "Filter by form"
+msgstr "Filtra per modulo"
+
+#: dist/form/kbp-form-actions.php:52 dist/form/kbp-form-actions.php:62
+#: src/blocks/pro-form/block.js:152
+msgid "Thanks for contacting us!"
+msgstr "Grazie per averci contattato!"
+
+#: dist/form/kbp-form-actions.php:53 dist/form/kbp-form-actions.php:63
+#: src/blocks/pro-form/block.js:158
+msgid "Thanks for getting in touch, we will respond within the next 24 hours."
+msgstr ""
+"Grazie per averci contattato, ti risponderemo entro le prossime 24 ore."
+
+#: dist/form/kbp-form-actions.php:122
+msgid "submission"
+msgstr "invio"
+
+#: dist/form/kbp-form-actions.php:131
+msgid "Not Collected"
+msgstr "Non raccolto"
+
+#: dist/form/kbp-form-actions.php:216
+msgid "No Response from SendInBlue"
+msgstr "Nessuna riposta da SendInBlue"
+
+#. translators: %s - link to a site.
+#: dist/templates/form-auto-email.php:136
+msgid "Sent from %s"
+msgstr "Inviato da %s"
+
+#: src/blocks/modal/edit.js:260
+msgid "HOVER: Link Color"
+msgstr "HOVER: Colore link"
+
+#: src/blocks/modal/edit.js:266
+msgid "HOVER: Link Background"
+msgstr "HOVER: Sfondo link"
+
+#: src/blocks/modal/edit.js:272
+msgid "HOVER: Link Border Color"
+msgstr "HOVER: Colore bordo del link"
+
+#: src/blocks/modal/edit.js:283 src/blocks/post-grid/edit.js:1663
+#: src/blocks/post-grid/edit.js:1886
+msgid "Link Color"
+msgstr "Colore link"
+
+#: src/blocks/modal/edit.js:289
+msgid "Link Background"
+msgstr "Sfondo link"
+
+#: src/blocks/modal/edit.js:295
+msgid "Link Border Color"
+msgstr "Colore bordo del link"
+
+#: src/blocks/modal/edit.js:403
+msgid "Overlay Background Color"
+msgstr "Colore sfondo sovrapposto"
+
+#: src/blocks/modal/edit.js:623
+msgid "HOVER: X Color"
+msgstr "HOVER: X colore"
+
+#: src/blocks/modal/edit.js:629
+msgid "HOVER: X Background"
+msgstr "HOVER: X sfondo"
+
+#: src/blocks/modal/edit.js:640
+msgid "X Color"
+msgstr "X colore"
+
+#: src/blocks/modal/edit.js:646
+msgid "X Background"
+msgstr "X sfondo"
+
+#: src/blocks/modal/edit.js:693
+msgid "Modal Background Color"
+msgstr "Colore sfondo modale"
+
+#: src/blocks/modal/edit.js:711
+msgid "Modal Border Color"
+msgstr "Colore bordo modale"
+
+#: src/blocks/modal/edit.js:759 src/blocks/split-content/edit.js:622
+msgid "Shadow Color"
+msgstr "Colore ombra"
+
+#: src/blocks/portfolio-grid/block.js:43 src/blocks/post-grid/block.js:43
+msgid "Grid Carousel"
+msgstr "Griglia/carosello articoli"
+
+#: src/blocks/portfolio-grid/block.js:44 src/blocks/post-grid/block.js:44
+msgid "KB"
+msgstr "KB"
+
+#: src/blocks/portfolio-grid/block.js:46
+msgid "Display a grid or carousel of portfolio styled posts."
+msgstr "Visualizza una griglia o un carosello di articoli in stile portfolio."
+
+#: src/blocks/post-grid/block.js:46
+msgid "Display a grid or carousel of posts."
+msgstr "Visualizza una griglia o carosello di articoli."
+
+#: src/blocks/post-grid/edit.js:700
+msgid "Newest to Oldest"
+msgstr "Dal più recente al più vecchio"
+
+#: src/blocks/post-grid/edit.js:704
+msgid "Oldest to Newest"
+msgstr "Dal più vecchio al più recente"
+
+#: src/blocks/post-grid/edit.js:708
+msgid "Modified Ascending"
+msgstr "Crescente modificato"
+
+#: src/blocks/post-grid/edit.js:712
+msgid "Modified Decending"
+msgstr "Decrescente modificato"
+
+#. translators: label for ordering posts by title in ascending order
+#: src/blocks/post-grid/edit.js:717
+msgid "A → Z"
+msgstr "A → Z"
+
+#. translators: label for ordering posts by title in descending order
+#: src/blocks/post-grid/edit.js:722
+msgid "Z → A"
+msgstr "Z → A"
+
+#. translators: label for ordering posts by title in descending order
+#: src/blocks/post-grid/edit.js:727
+msgid "Random"
+msgstr "Casuale"
+
+#: src/blocks/post-grid/edit.js:808 src/blocks/post-grid/edit.js:848
+msgid "Include"
+msgstr "Includere"
+
+#: src/blocks/post-grid/edit.js:809 src/blocks/post-grid/edit.js:849
+msgid "Exclude"
+msgstr "Escludere"
+
+#: src/blocks/post-grid/edit.js:1019
+msgid "Display Filter"
+msgstr "Visualizza filtro"
+
+#: src/blocks/post-grid/edit.js:1023
+msgid "Show Filter"
+msgstr "Mostra filtro"
+
+#: src/blocks/post-grid/edit.js:1073
+msgid "Horizontal Alignment"
+msgstr "Allineamento orizzontale"
+
+#: src/blocks/post-grid/edit.js:1135
+msgid "Filter Colors"
+msgstr "Filtra i colori"
+
+#: src/blocks/post-grid/edit.js:1165
+msgid "Hover Color"
+msgstr "Colore hover"
+
+#: src/blocks/post-grid/edit.js:1192
+msgid "Active Color"
+msgstr "Colore attivo"
+
+#: src/blocks/post-grid/edit.js:1219
+msgid "Filter Color"
+msgstr "Filtra il colore"
+
+#: src/blocks/post-grid/edit.js:1250
+msgid "Filter Typography Settings"
+msgstr "Filtrare le impostazioni tipografiche"
+
+#: src/blocks/post-grid/edit.js:1353
+msgid "Container Border Width"
+msgstr "Spessore del bordo del contenitore"
+
+#: src/blocks/post-grid/edit.js:1363
+msgid "Border Radius"
+msgstr "Raggio del bordo"
+
+#: src/blocks/post-grid/edit.js:1381
+msgid "Box Shadow"
+msgstr "Ombra del bordo"
+
+#: src/blocks/post-grid/edit.js:1578
+msgid "Image ratio"
+msgstr "Proporzioni immagine"
+
+#: src/blocks/post-grid/edit.js:1581
+msgid "Landscape 4:3"
+msgstr "Orizzontale 4:3"
+
+#: src/blocks/post-grid/edit.js:1585
+msgid "Landscape 3:2"
+msgstr "Orizzontale 3:2"
+
+#: src/blocks/post-grid/edit.js:1589
+msgid "Landscape 4:2"
+msgstr "Orizzontale 4:2"
+
+#: src/blocks/post-grid/edit.js:1593
+msgid "Portrait 3:4"
+msgstr "Verticale 3:4"
+
+#: src/blocks/post-grid/edit.js:1597
+msgid "Portrait 2:3"
+msgstr "Verticale 2:3"
+
+#: src/blocks/post-grid/edit.js:1601
+msgid "Square 1:1"
+msgstr "Quadrata 1:1"
+
+#: src/blocks/post-grid/edit.js:1605
+msgid "Inherit"
+msgstr "Eredita"
+
+#: src/blocks/post-grid/edit.js:1619
+msgid "Image Padding"
+msgstr "Spaziatura interna dell'immagine"
+
+#: src/blocks/post-grid/edit.js:1631
+msgid "Above Title Categories"
+msgstr "Categorie sopra i titoli"
+
+#: src/blocks/post-grid/edit.js:1635
+msgid "Show Categories Above title"
+msgstr "Mostra le categorie sopra i titoli"
+
+#: src/blocks/post-grid/edit.js:1642
+msgid "Category Divider"
+msgstr "Divisore delle categorie"
+
+#: src/blocks/post-grid/edit.js:1659
+msgid "Categories Color"
+msgstr "Colore delle categorie"
+
+#: src/blocks/post-grid/edit.js:1669 src/blocks/post-grid/edit.js:1892
+msgid "Link Hover Color"
+msgstr "Colore hover link"
+
+#: src/blocks/post-grid/edit.js:1675
+msgid "Divider Color"
+msgstr "Colore divisore"
+
+#: src/blocks/post-grid/edit.js:1682
+msgid "Categories Typography Settings"
+msgstr "Impostazioni tipografiche delle categorie"
+
+#: src/blocks/post-grid/edit.js:1727
+msgid "Title Settings"
+msgstr "Impostazioni titolo"
+
+#: src/blocks/post-grid/edit.js:1731
+msgid "Show Title"
+msgstr "Mostra il titolo"
+
+#: src/blocks/post-grid/edit.js:1738
+msgid "Title Color"
+msgstr "Colore del titolo"
+
+#: src/blocks/post-grid/edit.js:1744
+msgid "Title Typography Settings"
+msgstr "Impostazioni tipografiche del titolo"
+
+#: src/blocks/post-grid/edit.js:1798
+msgid "Below Title Meta"
+msgstr "Sotto il titolo meta"
+
+#: src/blocks/post-grid/edit.js:1802 src/blocks/post-grid/edit.js:2104
+msgid "Show Date"
+msgstr "Mostra la data"
+
+#: src/blocks/post-grid/edit.js:1808
+msgid "Date Pre Text"
+msgstr "Data prima del testo"
+
+#: src/blocks/post-grid/edit.js:1814
+msgid "Show Modified Date"
+msgstr "Mostra la data modificata"
+
+#: src/blocks/post-grid/edit.js:1820
+msgid "Modified Date Pre Text"
+msgstr "Data modificata prima del testo"
+
+#: src/blocks/post-grid/edit.js:1826
+msgid "Show Author"
+msgstr "Mostra l'autore"
+
+#: src/blocks/post-grid/edit.js:1832
+msgid "Author Pre Text"
+msgstr "Autore prima del testo"
+
+#: src/blocks/post-grid/edit.js:1840
+msgid "Show Category"
+msgstr "Mostra categoria"
+
+#: src/blocks/post-grid/edit.js:1846
+msgid "Category Pre Text"
+msgstr "Categoria prima del testo"
+
+#: src/blocks/post-grid/edit.js:1854
+msgid "Show Comment Count"
+msgstr "Mostra il conteggio dei commenti"
+
+#: src/blocks/post-grid/edit.js:1858 src/blocks/post-grid/edit.js:1859
+msgid "Meta Divider"
+msgstr "Divisore meta"
+
+#: src/blocks/post-grid/edit.js:1880
+msgid "Color"
+msgstr "Colore"
+
+#: src/blocks/post-grid/edit.js:1899
+msgid "Meta Typography Settings"
+msgstr "Impostazioni tipografiche dei meta"
+
+#: src/blocks/post-grid/edit.js:1941
+msgid "Excerpt"
+msgstr "Riassunto"
+
+#: src/blocks/post-grid/edit.js:1945
+msgid "Show Excerpt"
+msgstr "Mostra il riassunto"
+
+#: src/blocks/post-grid/edit.js:1995
+msgid "Show Read More"
+msgstr "Mostra «Leggi tutto»"
+
+#: src/blocks/post-grid/edit.js:2002
+msgid "Read More Text"
+msgstr "Testo del campo «Leggi tutto»"
+
+#: src/blocks/post-grid/edit.js:2007
+msgid "Read More Border Width"
+msgstr "Spessore del bordo di «Leggi tutto»"
+
+#: src/blocks/post-grid/edit.js:2015
+msgid "Read More Border Radius"
+msgstr "Raggio del bordo di «Leggi tutto»"
+
+#: src/blocks/post-grid/edit.js:2093
+msgid "Footer Meta"
+msgstr "Meta del footer"
+
+#: src/blocks/post-grid/edit.js:2098
+msgid "Force to align bottom?"
+msgstr "Forzare l'allineamento in basso?"
+
+#: src/blocks/post-grid/edit.js:2111
+msgid "Show Categories"
+msgstr "Mostra le categorie"
+
+#: src/blocks/post-grid/edit.js:2116
+msgid "Show Tags"
+msgstr "Mostra i tag"
+
+#: src/blocks/post-grid/edit.js:2123
+msgid "Show Author Icon"
+msgstr "Mostra l'icona dell'autore"
+
+#: src/blocks/post-grid/edit.js:2128
+msgid "Show Comment Count (post must have comments)"
+msgstr "Mostra il conteggio dei commenti (l'articolo deve avere dei commenti)"
+
+#: src/blocks/pro-form/block.js:37
+msgid "Email"
+msgstr "Email"
+
+#: src/blocks/pro-form/block.js:38
+msgid "Redirect"
+msgstr "Reindirizza"
+
+#: src/blocks/pro-form/block.js:39
+msgid "Auto Respond Email"
+msgstr "Email di risposta automatica"
+
+#: src/blocks/pro-form/block.js:39
+msgid "Send instant response to form entrant"
+msgstr "Invia una risposta istantanea al sottoscrittore del modulo"
+
+#: src/blocks/pro-form/block.js:40
+msgid "Database Entry"
+msgstr "Voce del database"
+
+#: src/blocks/pro-form/block.js:40
+msgid "Log each form submission"
+msgstr "Registra ogni invio di modulo"
+
+#: src/blocks/pro-form/block.js:41
+msgid "Mailerlite"
+msgstr "Mailerlite"
+
+#: src/blocks/pro-form/block.js:41
+msgid "Add User to MailerLite list"
+msgstr "Aggiungi l'utente alla lista di MailerLite"
+
+#: src/blocks/pro-form/block.js:42
+msgid "SendInBlue"
+msgstr "SendInBlue"
+
+#: src/blocks/pro-form/block.js:42
+msgid "Add User to SendInBlue list"
+msgstr "Aggiungi l'utente alla lista di SendInBlue"
+
+#: src/blocks/pro-form/block.js:43
+msgid "MailChimp"
+msgstr "MailChimp"
+
+#: src/blocks/pro-form/block.js:43
+msgid "Add User to MailChimp list"
+msgstr "Aggiungi l'utente alla lista di MailChimp"
+
+#: src/blocks/pro-form/block.js:147
+msgid "Auto Response Settings"
+msgstr "Impostazioni della risposta automatica"
+
+#: src/blocks/pro-form/block.js:151
+msgid "Email Subject"
+msgstr "Oggetto email"
+
+#: src/blocks/pro-form/block.js:157
+msgid "Email Message"
+msgstr "Messaggio email"
+
+#: src/blocks/pro-form/block.js:163
+msgid "From Email"
+msgstr "Email mittente"
+
+#: src/blocks/pro-form/block.js:168
+msgid "From Name"
+msgstr "Nome mittente"
+
+#: src/blocks/pro-form/block.js:173
+msgid "Reply To"
+msgstr "Rispondi a"
+
+#: src/blocks/pro-form/block.js:178
+msgid "Cc"
+msgstr "Cc"
+
+#: src/blocks/pro-form/block.js:183
+msgid "Bcc"
+msgstr "Ccn"
+
+#: src/blocks/pro-form/block.js:188
+msgid "Send as HTMl email?"
+msgstr "Inviare come email HTML?"
+
+#: src/blocks/pro-form/block.js:189
+msgid "If off plain text is used."
+msgstr "Se viene utilizzato il testo non normalizzato."
+
+#: src/blocks/pro-form/block.js:194
+msgid "Override Email to Address"
+msgstr "Sostituisci l'indirizzo del campo e-mail"
+
+#: src/blocks/pro-form/block.js:195
+msgid ""
+"By default email is sent to the email field, you can use this to override."
+msgstr ""
+"Come predefinito l'email viene inviata all'indirizzo del campo email, puoi "
+"usare invece questa funzione per sostituirlo."
+
+#: src/blocks/pro-form/block.js:203
+msgid "Entry Settings"
+msgstr "Impostazioni delle voci"
+
+#: src/blocks/pro-form/block.js:207
+msgid "Form Name"
+msgstr "Nome modulo"
+
+#: src/blocks/pro-form/block.js:212
+msgid "Save User IP Address"
+msgstr "Salva l'indirizzo IP dell'utente"
+
+#: src/blocks/pro-form/block.js:213
+msgid "Saves the entrants IP address with the form data"
+msgstr "Salva l'indirizzo IP dei partecipanti insieme ai dati del modulo"
+
+#: src/blocks/pro-form/block.js:218
+msgid "Save User Device"
+msgstr "Salva il dispositivo dell'utente"
+
+#: src/blocks/pro-form/block.js:219
+msgid "Saves the entrants device with form data"
+msgstr ""
+"Salva il tipo di dispositivo dei partecipanti insieme ai dati del modulo"
+
+#: src/blocks/pro-form/mailchimp.js:189
+msgid "MailChimp Settings"
+msgstr "Impostazioni di MailChimp"
+
+#: src/blocks/pro-form/mailchimp.js:194 src/blocks/pro-form/sendinblue.js:163
+msgid "Get help"
+msgstr "Ottenere aiuto"
+
+#: src/blocks/pro-form/mailchimp.js:208 src/blocks/pro-form/sendinblue.js:177
+msgid "Saving"
+msgstr "Salvando"
+
+#: src/blocks/pro-form/mailchimp.js:208 src/blocks/pro-form/sendinblue.js:177
+msgid "Save"
+msgstr "Salva"
+
+#: src/blocks/pro-form/mailchimp.js:217 src/blocks/pro-form/sendinblue.js:186
+msgid "Remove"
+msgstr "Rimuovi"
+
+#: src/blocks/pro-form/mailchimp.js:229 src/blocks/pro-form/mailchimp.js:239
+msgid "Select Audience"
+msgstr "Seleziona pubblico"
+
+#: src/blocks/pro-form/mailchimp.js:233
+msgid "No Audience found."
+msgstr "Nessun pubblico trovato."
+
+#: src/blocks/pro-form/mailchimp.js:266
+msgid "No Groups found."
+msgstr "Nessun gruppo trovato."
+
+#: src/blocks/pro-form/mailchimp.js:296 src/blocks/pro-form/sendinblue.js:234
+msgid "No Fields found."
+msgstr "Nessun campo trovato."
+
+#: src/blocks/pro-form/mailchimp.js:326
+msgid "Require Double Opt In?"
+msgstr "Richiedere il doppio consenso?"
+
+#: src/blocks/pro-form/sendinblue.js:156
+msgid "SendInBlue Settings"
+msgstr "Impostazioni SendInBlue"
+
+#: src/blocks/pro-form/sendinblue.js:161
+msgid "Get API Key"
+msgstr "Ottieni una chiavi API"
+
+#: src/blocks/pro-form/sendinblue.js:202
+msgid "No list found."
+msgstr "Nessun elenco trovato."
+
+#: src/blocks/split-content/edit.js:557
+msgid "Media Area Background Color"
+msgstr "Colore dello sfondo dell'area media"
+
+#: src/blocks/split-content/edit.js:563
+msgid "Content Area Background Color"
+msgstr "Colore dello sfondo dell'area dei contenuti"
+
+#: src/plugins/animate-on-scroll/index.js:57
+msgid "None"
+msgstr "Nessuno"
+
+#: src/plugins/animate-on-scroll/index.js:58
+msgid "Fade"
+msgstr "Dissolvere"
+
+#: src/plugins/animate-on-scroll/index.js:59
+msgid "Fade Up"
+msgstr "Dissolvenza verso l'alto"
+
+#: src/plugins/animate-on-scroll/index.js:60
+msgid "Fade Down"
+msgstr "Dissolvenza verso il basso"
+
+#: src/plugins/animate-on-scroll/index.js:61
+msgid "Fade Left"
+msgstr "Dissolvenza a sinistra"
+
+#: src/plugins/animate-on-scroll/index.js:62
+msgid "Fade Right"
+msgstr "Dissolvenza a destra"
+
+#: src/plugins/animate-on-scroll/index.js:63
+msgid "Fade Up Right"
+msgstr "Dissolvenza verso l'alto a destra"
+
+#: src/plugins/animate-on-scroll/index.js:64
+msgid "Fade Up Left"
+msgstr "Dissolvenza verso l'alto a sinistra"
+
+#: src/plugins/animate-on-scroll/index.js:65
+msgid "Fade Down Right"
+msgstr "Dissolvenza verso il basso a destra"
+
+#: src/plugins/animate-on-scroll/index.js:66
+msgid "Fade Down Left"
+msgstr "Dissolvenza verso il basso a sinistra"
+
+#: src/plugins/animate-on-scroll/index.js:67
+msgid "Flip Up"
+msgstr "Capovolgi in alto"
+
+#: src/plugins/animate-on-scroll/index.js:68
+msgid "Flip Down"
+msgstr "Capovolgi in basso"
+
+#: src/plugins/animate-on-scroll/index.js:69
+msgid "Flip Left"
+msgstr "Gira a sinistra"
+
+#: src/plugins/animate-on-scroll/index.js:70
+msgid "Flip Right"
+msgstr "Gira a destra"
+
+#: src/plugins/animate-on-scroll/index.js:71
+msgid "Slide Up"
+msgstr "Scorri verso l'alto"
+
+#: src/plugins/animate-on-scroll/index.js:72
+msgid "Slide Down"
+msgstr "Scorri verso il basso"
+
+#: src/plugins/animate-on-scroll/index.js:73
+msgid "Slide Left"
+msgstr "Scorri a sinistra"
+
+#: src/plugins/animate-on-scroll/index.js:74
+msgid "Slide Right"
+msgstr "Scorri a destra"
+
+#: src/plugins/animate-on-scroll/index.js:75
+msgid "Zoom In"
+msgstr "Ingrandire"
+
+#: src/plugins/animate-on-scroll/index.js:76
+msgid "Zoom In Up"
+msgstr "Ingrandire sopra"
+
+#: src/plugins/animate-on-scroll/index.js:77
+msgid "Zoom In Down"
+msgstr "Ingrandire verso il basso"
+
+#: src/plugins/animate-on-scroll/index.js:78
+msgid "Zoom In Left"
+msgstr "Ingrandire a sinistra"
+
+#: src/plugins/animate-on-scroll/index.js:79
+msgid "Zoom In Right"
+msgstr "Ingrandire a destra"
+
+#: src/plugins/animate-on-scroll/index.js:80
+msgid "Zoom Out"
+msgstr "Rimpicciolire"
+
+#: src/plugins/animate-on-scroll/index.js:81
+msgid "Zoom Out Up"
+msgstr "Rimpicciolire verso l'alto"
+
+#: src/plugins/animate-on-scroll/index.js:82
+msgid "Zoom Out Down"
+msgstr "Rimpicciolire sotto"
+
+#: src/plugins/animate-on-scroll/index.js:83
+msgid "Zoom Out Left"
+msgstr "Rimpicciolire a sinistra"
+
+#: src/plugins/animate-on-scroll/index.js:84
+msgid "Zoom Out Right"
+msgstr "Rimpicciolire a destra"
+
+#: src/plugins/animate-on-scroll/index.js:87
+msgid "Slide Reveal Up"
+msgstr "Scorri e rivela verso l'alto"
+
+#: src/plugins/animate-on-scroll/index.js:88
+msgid "Slide Reveal Down"
+msgstr "Scorri e rivela sotto"
+
+#: src/plugins/animate-on-scroll/index.js:89
+msgid "Slide Reveal Left"
+msgstr "Scorri e rivela a sinistra"
+
+#: src/plugins/animate-on-scroll/index.js:90
+msgid "Slide Reveal Right"
+msgstr "Scorri e rivela a destra"
+
+#: src/plugins/animate-on-scroll/index.js:93
+msgid "Cover Swipes Up"
+msgstr "Trascina copertina verso l'alto"
+
+#: src/plugins/animate-on-scroll/index.js:94
+msgid "Cover Swipes Down"
+msgstr "Trascina copertina verso il basso"
+
+#: src/plugins/animate-on-scroll/index.js:95
+msgid "Cover Swipes Left"
+msgstr "Trascina copertina a sinistra"
+
+#: src/plugins/animate-on-scroll/index.js:96
+msgid "Cover Swipes Right"
+msgstr "Trascina copertina a destra"
+
+#: src/plugins/animate-on-scroll/index.js:99
+msgid "Fade Opposite Sides In"
+msgstr "Dissolvenza lati opposti"
+
+#: src/plugins/animate-on-scroll/index.js:100
+msgid "Fade Center Out"
+msgstr "Dissolvenza centrale in uscita"
+
+#: src/plugins/animate-on-scroll/index.js:101
+msgid "Slide Opposite Sides In"
+msgstr "Scorrimento lati opposti"
+
+#: src/plugins/animate-on-scroll/index.js:102
+msgid "Slide Center Out"
+msgstr "Scorrimento centrale in uscita"
+
+#: src/plugins/animate-on-scroll/index.js:130
+msgid "Select"
+msgstr "Seleziona"
+
+#: src/plugins/animate-on-scroll/index.js:147
+msgid "Animate on Scroll"
+msgstr "Animazione allo scorrimento"
+
+#: src/plugins/animate-on-scroll/index.js:151
+msgid "Animation"
+msgstr "Animazione"
+
+#: src/plugins/animate-on-scroll/index.js:159
+#: src/plugins/block-defaults/aos-default.js:109
+msgid "Animation Duration"
+msgstr "Durata dell'animazione"
+
+#: src/plugins/animate-on-scroll/index.js:167
+#: src/plugins/block-defaults/aos-default.js:117
+msgid "Animation Ease"
+msgstr "Interpolazione animazione"
+
+#: src/plugins/animate-on-scroll/index.js:173
+#: src/plugins/block-defaults/aos-default.js:123
+msgid "Start Delay"
+msgstr "Ritardo dell'avvio"
+
+#: src/plugins/animate-on-scroll/index.js:181
+#: src/plugins/block-defaults/aos-default.js:131
+msgid "Only show once per page load?"
+msgstr "Mostrare solo una volta per ogni caricamento della pagina?"
+
+#: src/plugins/animate-on-scroll/index.js:191
+#: src/plugins/block-defaults/aos-default.js:136
+msgid "Pixel offset for when animation triggers"
+msgstr "Offset pixel per quando si attiva l'animazione"
+
+#: src/plugins/animate-on-scroll/index.js:200
+msgid "Offset Delay for each part"
+msgstr "Ritardo offset per ogni parte"
+
+#: src/plugins/animate-on-scroll/index.js:211
+msgid "Play Animation"
+msgstr "Riproduci l'animazione"
+
+#: src/plugins/block-defaults/aos-default.js:98
+#: src/plugins/block-defaults/aos-default.js:104
+msgid "Animate On Scroll"
+msgstr "Animazione allo scorrimento"
+
+#: src/plugins/dynamic-content/index.js:57
+msgid "Dynamic Fields"
+msgstr "Campi dinamici"
+
+#~ msgid "Cloning instances of the class is forbidden."
+#~ msgstr "La clonazione di istanze della classe è vietata."
+
+#~ msgid "Unserializing instances of the class is forbidden."
+#~ msgstr ""
+#~ "Non è consentito annullare la serializzazione delle istanze della classe."
+
+#~ msgid "Limit results to items of an object type."
+#~ msgstr "Limita i risultati agli elementi di un tipo di oggetto."
+
+#~ msgid "Limit results to items that match search query."
+#~ msgstr ""
+#~ "Limita i risultati agli elementi che coincidono con la domanda richiesta."
+
+#~ msgid "Include posts by ID."
+#~ msgstr "Includi Articoli per ID."
+
+#~ msgid "Number of results to return."
+#~ msgstr "Numero di risultati da mostrare."
+
+#~ msgid "Page of results to return."
+#~ msgstr "Pagina di risultati da mostrare."
+
+#, php-format
+#~ msgid ""
+#~ "Limit result set to all items that have the specified term assigned in "
+#~ "the %s taxonomy."
+#~ msgstr ""
+#~ "Limite risulta essere attivo su tutti gli elementi che hanno assegnato il "
+#~ "termine nella %s taxonomia."
+
+#~ msgid "Show only these icons"
+#~ msgstr "Mostra solo queste icone"
+
+#~ msgid "Oops! That page can&rsquo;t be found."
+#~ msgstr "Oops! La pagina non è stata trovata."
+
+#~ msgid "Nothing Found"
+#~ msgstr "Non è stato trovato nulla"
+
+#, php-format
+#~ msgid "Search Results for: %s"
+#~ msgstr "Risultati della ricerca per: %s"
+
+#~ msgid "Unique identifier for the resource."
+#~ msgstr "Identificato re univoco per la risorsa."
+
+#~ msgid "Taxonomy does not exist."
+#~ msgstr "La tassonomia non esiste."
+
+#~ msgid "Resource does not exist."
+#~ msgstr "La risorsa non esiste."
+
+#~ msgid "Private REST API for use by block editor only."
+#~ msgstr "REST API Privato per il solo uso di Block editor."
+
+#~ msgid "Sorry, you cannot list resources."
+#~ msgstr "Non puoi elencare le risorse."
+
+#~ msgid "Sorry, you cannot view this resource."
+#~ msgstr "Non puoi vedere questa risorsa."
+
+#~ msgid "Operator to compare product category terms."
+#~ msgstr "Operatore per confrontare i termini della categoria di prodotto."
+
+#~ msgid "Operator to compare product attribute terms."
+#~ msgstr "Operatore per confrontare i termini dell'attributo del prodotto."
+
+#~ msgid "Determines if hidden or visible catalog products are shown."
+#~ msgstr ""
+#~ "Determina se vengono visualizzati i prodotti del catalogo nascosti o "
+#~ "visibili."
+
+#~ msgid "Entry"
+#~ msgstr "Voce"
+
+#~ msgid "Entries"
+#~ msgstr "Voci"
+
+#~ msgid "No entries avaliable."
+#~ msgstr "Nessuna voce disponibile."
+
+#~ msgid "First Field"
+#~ msgstr "Primo campo"
+
+#~ msgid "Second Field"
+#~ msgstr "Secondo campo"
+
+#~ msgid "Move to Trash"
+#~ msgstr "Sposta nel cestino"
+
+#~ msgid "The following plugins have not been activated: "
+#~ msgstr "I seguenti plugin non sono stati attivati. "
+
+#~ msgid "Click here to activate."
+#~ msgstr "Fai clic qui per attivare."
+
+#, php-format
+#~ msgid ""
+#~ "<b>Warning!</b> You're blocking external requests which means you won't "
+#~ "be able to get certain plugin updates. Please add %s to %s."
+#~ msgstr ""
+#~ "<b>Attenzione!</b> Stai bloccando le richieste esterne quindi non potrai "
+#~ "ottenere alcuni aggiornamenti del plugin. Aggiungi %s a %s."
+
+#~ msgid "Kadence Plugin Activation."
+#~ msgstr "Attivazione Kadence Plugin."
+
+#, php-format
+#~ msgid ""
+#~ "Activating your license allows for plugin updates. If you need your api "
+#~ "key you will find it by logging in to your %s Kadence WP account%s."
+#~ msgstr ""
+#~ "L'attivazione della tua licenza ti consente di effettuare gli "
+#~ "aggiornamenti del plugin. Se necessiti la tua API KEY la troverai "
+#~ "accedendo al tuo %s Kadence WP account%s."
+
+#~ msgid "Could Not Activate"
+#~ msgstr "Non è possibile l'attivazione"
+
+#~ msgid "Deactivated"
+#~ msgstr "Disattivato"
+
+#~ msgid "Could Not Deactivate, Try again."
+#~ msgstr "Impossibile disattivare, riprova."
+
+#~ msgid "Kadence Membership activated through theme"
+#~ msgstr "Kadence Membership attivata con il tema"
+
+#~ msgid " Status: Active"
+#~ msgstr " Stato: Attivo"
+
+#~ msgid "Deactivate"
+#~ msgstr "Disattivare"
+
+#~ msgid "API License Activation"
+#~ msgstr "Attivazione Licenza API"
+
+#~ msgid "API License Key"
+#~ msgstr "Licenza API Key"
+
+#~ msgid "API License Email"
+#~ msgstr "Email Licenza API"
+
+#~ msgid "Check box to deactivate API License key"
+#~ msgstr "Seleziona la casella per disattivare la Licenza API Key"
+
+#~ msgid "Missing API Key, PLease add. "
+#~ msgstr "Manca API Key. Aggiungila. "
+
+#~ msgid "Missing API Email, PLease add. "
+#~ msgstr "Manca Email API. Aggiungila. "
+
+#~ msgid "Plugin activated."
+#~ msgstr "Plugin attivato."
+
+#~ msgid ""
+#~ "Connection failed to the License Key API server. Make sure your host "
+#~ "servers php version has the curl module installed and enabled."
+#~ msgstr ""
+#~ "Collegamento fallito con il server della Licenza API Key. Assicurati che "
+#~ "il server del tuo provider di servizi abbia installato e attivato il "
+#~ "modulo curl nella versione PHP."
+
+#~ msgid "Please check box to deactivate. "
+#~ msgstr "Seleziona la casella per disattivare. "
+
+#~ msgid "License deactivated."
+#~ msgstr "Liceza disattivata."
+
+#~ msgid "Cheatin&#8217; huh?"
+#~ msgstr "Scherzando, ah ah?"
+
+#~ msgid "Failed to Connect to MailChimp"
+#~ msgstr "Impossibile connettersi a MailChimp"
+
+#~ msgid "Kadence Recaptcha Settings"
+#~ msgstr "Impostazioni di Kadence Recaptcha"
+
+#~ msgid "Site Key:"
+#~ msgstr "Chiave del sito:"
+
+#~ msgid "Secret Key:"
+#~ msgstr "Chiave segreta:"
+
+#~ msgid "reCaptcha form options"
+#~ msgstr "Opzioni del modulo reCaptcha"
+
+#~ msgid "Enable for Post and Page Comments"
+#~ msgstr "Abilita per i commenti negli articoli e nelle pagine"
+
+#~ msgid "Enable for Woocommerce Reviews"
+#~ msgstr "Abilita per le recensioni Woocommerce"
+
+#~ msgid "Enable for Woocommerce My Account"
+#~ msgstr "Abilita per Mio account Woocommerce"
+
+#~ msgid "Google reCaptcha Style"
+#~ msgstr "Stile Google reCaptcha"
+
+#~ msgid "Choose a theme"
+#~ msgstr "Seleziona un tema"
+
+#~ msgid "Compact"
+#~ msgstr "Compatta"
+
+#~ msgid "Choose a type"
+#~ msgstr "Seleziona un tipo"
+
+#~ msgid "Audio"
+#~ msgstr "Audio"
+
+#~ msgid "Privacy Consent"
+#~ msgstr "Consenso Privacy"
+
+#~ msgid "Consent Cookie Name"
+#~ msgstr "Nome del cookie del Consenso"
+
+#~ msgid "Theme Specific Enable Options"
+#~ msgstr "Opzioni di attivazione specifiche del tema"
+
+#~ msgid "Enable for theme contact form"
+#~ msgstr "Abilita per il modulo dei contatti del tema"
+
+#~ msgid "Enable for testimonial form"
+#~ msgstr "Abilita per i moduli delle testimonianze"
+
+#~ msgid "To use this form you must consent to our %s."
+#~ msgstr "Per usare questo modulo devi acconsentire alla nostra %s."
+
+#~ msgid "*Cookies must be enabled in your browser"
+#~ msgstr "*I cookie devono essere abilitati nel tuo browser"
+
+#~ msgid "Sorry, it seems you're a robot."
+#~ msgstr "Sembra proprio che tu sia un robot."

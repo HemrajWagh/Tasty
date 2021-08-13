@@ -1,0 +1,5 @@
+/*
+** FlaGallery StyleSheet
+*/
+.flashalbum { overflow:hidden; position:relative;}
+.mfp-flagallery-open .mfp-arrow { top: auto !important; margin-top: auto !important; }
